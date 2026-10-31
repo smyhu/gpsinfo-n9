@@ -1,0 +1,10 @@
+<aegis>
+	<request policy="add">
+		<!-- QtMobility location: position (PositionSource) and satellites (QGeoSatelliteInfoSource) -->
+		<credential name="Location" />
+		<credential name="GRP::metadata-users" />
+		<credential name="TrackerReadAccess" />
+		<credential name="TrackerWriteAccess" />
+		<for path="/opt/gpsinfo-n9/bin/gpsinfo-n9" />
+	</request>
+</aegis>
