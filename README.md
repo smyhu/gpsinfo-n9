@@ -2,7 +2,7 @@
 
 A GPS status application for the Nokia N9 (MeeGo Harmattan PR1.3).
 
-![Screenshots from the emulator](art/zrzuty-emulator.png)
+![Screenshots from the emulator](art/screenshots.png)
 
 * satellites in view and in use, with signal strength (SNR) bars
 * sky plot of the satellites (azimuth/elevation), turned by the compass
